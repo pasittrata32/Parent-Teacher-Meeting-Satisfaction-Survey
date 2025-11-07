@@ -1,0 +1,5 @@
+{
+  "name": "Parent-Teacher Meeting Satisfaction Survey",
+  "description": "A bilingual (Thai/English) web application for collecting feedback on parent-teacher meetings. Users can fill out the survey, and the collected data can be downloaded as a CSV file.",
+  "requestFramePermissions": []
+}
